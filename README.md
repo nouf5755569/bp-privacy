@@ -1,0 +1,2 @@
+# bp-privacy
+Privacy policy
