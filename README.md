@@ -52,11 +52,11 @@
     <h2>5. User Control and Revocation</h2>
     <ol>
       <li>Open Huawei Health App → Settings → Data Sharing → disable access for our app.</li>
-      <li>Or email us at <a href="mailto:you@example.com">you@example.com</a> to request data deletion.</li>
+      <li>Or email us at <a href="mailto:nwf0556@gmail.com">nwf0556@gmail.com</a> to request data deletion.</li>
     </ol>
 
     <h2>6. Contact</h2>
-    <p>Email: <a href="mailto:you@example.com">you@example.com</a><br>
+    <p>Email: <a href="mailto:nwf0556@gmail.com"nwf0556@gmail.com</a><br>
        Website: <a href="https://example.com" target="_blank" rel="noopener">https://example.com</a></p>
 
     <hr>
@@ -97,11 +97,11 @@
       <h2>5) التحكم في البيانات وسحب الأذونات</h2>
       <ol>
         <li>من تطبيق Huawei Health ← الإعدادات ← مشاركة البيانات ← تعطيل وصول تطبيقنا.</li>
-        <li>أو راسلنا على البريد: <a href="mailto:you@example.com">you@example.com</a> لطلب حذف بياناتك.</li>
+        <li>أو راسلنا على البريد: <a href="mailto:nwf0556@gmail.com">nwf0556@gmail.com</a> لطلب حذف بياناتك.</li>
       </ol>
 
       <h2>6) التواصل</h2>
-      <p>البريد الإلكتروني: <a href="mailto:you@example.com">you@example.com</a><br>
+      <p>البريد الإلكتروني: <a href="mailto:you@example.com">ynwf0556@gmail.com</a><br>
          الموقع الإلكتروني: <a href="https://example.com" target="_blank" rel="noopener">https://example.com</a></p>
     </div>
   </div>
